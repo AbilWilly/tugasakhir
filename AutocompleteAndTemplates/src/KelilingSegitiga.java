@@ -8,7 +8,7 @@ public class KelilingSegitiga {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-      
+      //coba 1
         double sisiA = input.nextDouble();//Masukkan sisi A Segitiga
 
         System.out.println("Masukkan panjang sisi B segitiga: ");
